@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siyuan
-- 👀 I’m interested in Traveling
-- 🌱 I’m currently learning on modeling with Python 
-- 💞️ I’m looking to collaborate on economical or financial data analysis 
+- 👀 I’m interested in Traveling, Language Learning, Violin Playing and Data Analyzing.
+- 🌱 I’ve finished my education months ago and currently learning on modeling with Python 
+- 💞️ I’m looking to collaborate on economical or financial data analysis.
 - 📫 Reach me on siyuan999dk@gmail.com
 
 <!---
