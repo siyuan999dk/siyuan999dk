@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siyuan999dk
+- 👋 Hi, I’m Siyuan
 - 👀 I’m interested in Traveling
 - 🌱 I’m currently learning on modeling with Python 
 - 💞️ I’m looking to collaborate on economical or financial data analysis 
