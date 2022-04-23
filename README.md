@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward to collaborate on economical/financial data analysis.
 - 📫 Reach me on siyuan999dk@gmail.com
 
-P.S. if you know the guy on the left, visit my island on Switch 😆
+(P.S. if you know the guy on the left, visit my island with your switch. 😆)
 
 <!---
 siyuan999dk/siyuan999dk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
