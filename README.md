@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siyuan
 - 👀 I’m interested in Culture Exploring🌍, Language Learning📖, Violin Playing🎻 and Data Analyzing💻.
 - 🌱 I’ve just completed my education months ago and working on the path to be Data Scientist. 
-- 💞️ I’m looking forward to collaborate on economical or financial data analysis.
+- 💞️ I’m looking forward to collaborate on economical/financial data analysis.
 - 📫 Reach me on siyuan999dk@gmail.com
 
 <!---
